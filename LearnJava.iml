@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="com.google.http-client:google-http-client:1.20.0" level="application" />
+    <orderEntry type="library" name="br.com.caelum:restfulie:1.0.1" level="application" />
   </component>
 </module>
